@@ -6,8 +6,5 @@
   },
   "scripts": {
     "test": ""
-  },
-  "dependencies": {
-    "selenium-webdriver": "^4.12.0"
   }
 }
